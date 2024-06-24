@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "1",
+        "title" :  "Ik developers",
+        "info" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "imageSrc" : "google-page-speed 1.png"
+    },
+    {
+        "id" : "2",
+        "title" :  "Links",
+        "info" : "About Us ",
+        "info2" : "Services",
+        "info3" : "Case Studies",
+        "info4" : "How it works",
+        "info5"  : "Blog",
+        "info6" : "Careers",
+        "info7" : "Areas We Serve"
+    },
+
+    {
+        "id" : "3",
+        "title" :  "Contact us",
+        "info" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.  ",
+        "info2" : "+923183561921"
+        
+    }
+]

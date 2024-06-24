@@ -1,0 +1,118 @@
+.container_studies {
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .header h2 {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .phone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 800px;
+  }
+  
+  .phone .left {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .phone .left img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .phone .right {
+    text-align: center;
+  }
+  
+  .phone .right h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .phone .right p {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .phone .right h6 {
+    font-size: 1em;
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  @media (min-width: 600px) {
+    .main {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .phone {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+  
+    .phone .left, .phone .right {
+      width: 50%;
+    }
+  
+    .phone .left {
+      margin-bottom: 0;
+    }
+  
+    .phone .right {
+      text-align: left;
+      padding: 0 20px;
+    }
+  
+    .phone .right h2 {
+      font-size: 1.8em;
+    }
+  
+    .phone .right p {
+      font-size: 1.4em;
+    }
+  
+    .phone .right h6 {
+      font-size: 1.2em;
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .phone {
+      max-width: 1000px;
+    }
+  
+    .phone .right h2 {
+      font-size: 2em;
+    }
+  
+    .phone .right p {
+      font-size: 1.6em;
+    }
+  
+    .phone .right h6 {
+      font-size: 1.4em;
+    }
+  }
+  

@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "title" : "UX Driven Engineering",
+        "info" :"Unlike other companies, we are a UX first development company. Projects are driven by designers and they make sure design and experiences translate to code.",
+        "imageSrc" : "Code_perspective_matte.jpg"
+    },
+    {
+        "id":"2",
+        "title" : "Quality Assurance & Testing",
+        "info" : "Unlike other companies, we are a UX first development company. Projects are driven by designers and they make sure design and experiences translate to code.",
+        "imageSrc" : "Padlock_perspective_matte.png"
+    },
+    {
+        "id":"3",
+        "title" : "Developing Shared Understanding",
+        "info" :"Unlike other companies, we are a UX first development company. Projects are driven by designers and they make sure design and experiences translate to code.",
+        "imageSrc" : "Rocket_perspective_matte.png"
+    },
+    {
+        "id":"4",
+        "title" : "Proven Experience and Expertise",
+        "info" :"Unlike other companies, we are a UX first development company. Projects are driven by designers and they make sure design and experiences translate to code.",
+        "imageSrc" : "Mobile_app_perspective_matte.png"
+    },
+    {
+        "id":"5",
+        "title" : "Security & Intellectual Property (IP)",
+        "info" :"Unlike other companies, we are a UX first development company. Projects are driven by designers and they make sure design and experiences translate to code.",
+        "imageSrc" : "Success_perspective_matte.png"
+    },
+    {
+        "id":"6",
+        "title" : "Code Reviews",
+        "info" :"Unlike other companies, we are a UX first development company. Projects are driven by designers and they make sure design and experiences translate to code.",
+        "imageSrc" : "Heart_rate_perspective_matte.png"
+    }
+]

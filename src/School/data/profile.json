@@ -1,0 +1,31 @@
+[
+    {
+        "id" : "1",
+        "star" : "5star",
+        "info" : "Romeena De Silva ",
+        "short" : "Janet Cosmetics",
+        "imageSrc" : "Ellipse 1 (1).png"
+    },
+    {
+        "id" : "2",
+        "star" : "5star",
+        "info" : "Romeena De Silva ",
+        "short" : "Janet Cosmetics",
+        "imageSrc" : "Ellipse 1 (2).png"
+    },
+    {
+        "id" : "3",
+        "star" : "5star",
+        "info" : "Imran Khan ",
+        "short" : "Software Engineer",
+        "imageSrc" : "Ellipse 1 (3).png"
+    },
+    {
+        "id" : "4",
+        "star" : "5star",
+        "info" : "Romeena De Silva",
+        "short" : "Janet Cosmetics",
+        "imageSrc" : "Ellipse 1 (1).png"
+    }
+    
+]
